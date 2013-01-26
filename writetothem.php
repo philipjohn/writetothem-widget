@@ -6,7 +6,7 @@ Description: A widget which provides an entry point for mySociety's WriteToThem.
 Author: Philip John
 Version: 2.1
 Author URI: http://philipjohn.co.uk
-License: GPLv3
+License: WTFPL
 License URI: license.txt
 Text Domain: writetothem
 Domain Path: /languages

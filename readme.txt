@@ -3,9 +3,9 @@ Contributors: philipjohn
 Donate link: http://philipjohn.co.uk
 Tags: writetothem, politics, democracy, mysociety
 Requires at least: 3.4.2
-Tested up to: 3.4.2
+Tested up to: 3.5.1
 Stable tag: 2.1
-License: GPLv3
+License: WTFPL
 License URI: license.txt
 
 A widget which provides an entry point for mySociety's WriteToThem.com, now completely re-written.
