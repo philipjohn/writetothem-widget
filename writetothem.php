@@ -4,7 +4,7 @@ Plugin Name: WriteToThem Widget
 Plugin URI: http://philipjohn.co.uk/category/plugins/writetothem/
 Description: A widget which provides an entry point for mySociety's WriteToThem.com, now completely re-written
 Author: Philip John
-Version: 2.1
+Version: 2.1.1
 Author URI: http://philipjohn.co.uk
 License: WTFPL
 License URI: license.txt

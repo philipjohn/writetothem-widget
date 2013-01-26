@@ -4,7 +4,7 @@ Donate link: http://philipjohn.co.uk
 Tags: writetothem, politics, democracy, mysociety
 Requires at least: 3.4.2
 Tested up to: 3.5.1
-Stable tag: 2.1
+Stable tag: trunk
 License: WTFPL
 License URI: license.txt
 
