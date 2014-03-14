@@ -3,7 +3,7 @@ Contributors: philipjohn
 Donate link: http://philipjohn.co.uk
 Tags: writetothem, politics, democracy, mysociety
 Requires at least: 3.4.2
-Tested up to: 3.8
+Tested up to: 3.9
 Stable tag: trunk
 License: WTFPL
 License URI: license.txt
